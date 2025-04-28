@@ -1,25 +1,26 @@
+📘 Learning Session Code
 Overview
-This repository contains the code from my learning sessions while taking the Python for Data Analytics course offered by DeepLearning.AI on Coursera.
-It captures the concepts and techniques I am learning across different modules, focused on building a strong foundation in Python for data science and analytics.
+This repository contains the code from my learning sessions while taking the Python for Data Analytics course by DeepLearning.AI on Coursera.
+It documents the concepts and techniques I am learning across various modules, helping build a strong foundation in Python for data science and analytics.
 
-Note: I am currently progressing through the course and will update the repository with additional content as I complete each module.
+Note: I am currently progressing through the course. I will update the repository as I complete additional modules.
 
 Key Concepts Covered
 Module 1: Python Basics
-
-Core Python concepts: variables, data types, loops, functions, and basic data structures.
+Core Python topics: variables, data types, loops, functions, and basic data structures.
 
 Module 2: Data Analysis with Pandas
-
-Introduction to pandas, DataFrames, data import/export, cleaning, filtering, and descriptive statistics.
+Working with pandas for data import/export, cleaning, filtering, and summarizing DataFrames.
 
 Module 3: Data Visualization
+Creating visualizations using matplotlib and seaborn (line charts, bar charts, scatter plots, histograms).
 
-Creating visualizations using matplotlib and seaborn — including line charts, bar charts, scatter plots, and histograms.
+Upcoming Modules
+Statistical inference
 
-Upcoming:
+Regression modeling
 
-Statistical inference, linear regression, and time series analysis.
+Time series analysis
 
 Technologies Used
 Python
