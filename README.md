@@ -15,22 +15,23 @@ Working with pandas for data import/export, cleaning, filtering, and summarizing
 ### Module 3: Data Visualization
 Creating visualizations using matplotlib and seaborn (line charts, bar charts, scatter plots, histograms).
 
-### Upcoming Modules
-Statistical inference
+### Module 4: Statistical Inference & Regression
+Basics of hypothesis testing: t-tests, confidence intervals.
 
-Regression modeling
+Building simple and multiple linear regression models.
 
-Time series analysis
+### Module 5: Time Series Analysis
+Working with DateTime objects to handle time-based data.
 
-Technologies Used
-Python
+Techniques like resampling, segmentation, forecasting trends and seasonality.
 
-pandas
+## Technologies
+Python: Core programming language.
 
-NumPy
+pandas: Data manipulation.
 
-matplotlib
+NumPy: Numerical operations.
 
-seaborn
+matplotlib and Seaborn: Data visualization.
 
-scikit-learn
+scikit-learn: Basic machine learning models.
